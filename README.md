@@ -4,25 +4,16 @@
 <br>
 
 <h2>A Bit about me:</h2><br>
-                I'm a <strong>Core JAVA || Pyhton || Web-Development </strong>enthusiast.<br>
-                I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br>
-                Currently I am onto learning "Full-Stack Web-Development" using the <strong>MERN</strong><em> stack(Mongodb, ExpressJs, React, NodeJs)</em>.<br>
-                Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner.<br><br>
-                Coding has changed my perception of the world. It's not just about Apps. Learning to code provided me with the <i>problem-solving skills</i> and ways to communicate with others on a more technical level.<br/>
-                My other passions may include "Solo-Travelling" and a know-all regarding "World-Politics".<br><br> 
+                🔭 I'm a <strong>Core JAVA || Pyhton || Web-Development </strong>enthusiast.<br>
+                ⚡ I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br>
+                🌱 I’m currently onto learning "Full-Stack Web-Development" using the <strong>MERN</strong><em> stack(Mongodb, ExpressJs, React, NodeJs)</em>.<br>
+                😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner.<br><br>
+                👯 Coding has changed my perception of the world. It's not just about Apps. Learning to code provided me with the <i>problem-solving skills</i> and ways to communicate with others on a more technical level.<br><br> 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/AdityaRajSingh)
- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=AdityaRajSingh.visitor-badge)](https://github.com/AdityaRajSingh) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/AdityaRajSingh)
-
-
-
-<!--<sup><kbd>***[Click here](https://adityarajsingh.github.io)***</kbd> to visit my website.</sup> <br>-->
-
-
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/1Canis-Lupus1)
 
 To know more about me or to connect with me:
 <br>
-
 <a href="https://www.linkedin.com/in/shubham-choudhary-8457a9141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!--
