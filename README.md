@@ -14,7 +14,6 @@
 To know more about me or to connect with me:
 <br>
 <a href="https://www.linkedin.com/in/shubham-choudhary-8457a9141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
-<a href="mailto:shubhamchoudhary081997@gmail.com" target="_blank"><img src="https://www.contactmonkey.com/cm_wp/wp-content/uploads/2019/04/gmail-4-768x485.png" alt="Gmail"></a><br>
 
 <!--
 **1Canis-Lupus1/1Canis-Lupus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
