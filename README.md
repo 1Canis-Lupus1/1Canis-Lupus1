@@ -10,13 +10,16 @@
                 
 <!-- Most Languages Used <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Canis-Lupus1&layout=compact&hide=html&theme=radical" alt="1Canis-Lupus1" /> -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=1Canis-Lupus1&show_icons=true&theme=radical" alt="1Canis-Lupus1" />
+<!-- Github Stats <img align="center" src="https://github-readme-stats.vercel.app/api?username=1Canis-Lupus1&show_icons=true&theme=radical" alt="1Canis-Lupus1" /> -->
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/1Canis-Lupus1)
 
 To know more about me or to connect with me:
 <br>
 <a href="https://www.linkedin.com/in/shubham-choudhary-8457a9141/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+
+
+
 
 <!--
 **1Canis-Lupus1/1Canis-Lupus1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
