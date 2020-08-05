@@ -7,6 +7,8 @@
                 🌱 I’m currently onto learning "Full-Stack Web-Development" using the <strong>MERN</strong><em> stack(Mongodb, ExpressJs, React, NodeJs)</em>.<br>
                 😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner.<br><br>
                 👯 Coding has changed my perception of the world. It's not just about Apps. Learning to code provided me with the <i>problem-solving skills</i> and ways to communicate with others on a more technical level.<br><br> 
+                
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Canis-Lupus1&layout=compact&hide=html&theme=radical" alt="harshcasper" />
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/1Canis-Lupus1)
 
