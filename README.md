@@ -12,7 +12,9 @@
 
 <!-- Github Stats <img align="center" src="https://github-readme-stats.vercel.app/api?username=1Canis-Lupus1&show_icons=true&theme=radical" alt="1Canis-Lupus1" /> -->
 
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/1Canis-Lupus1)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/1Canis-Lupus1)<br/>
+
+📫 Reach me out at **shubhamchoudhary081997@gmail.com**
 
 To know more about me or to connect with me:
 <br>
