@@ -1,6 +1,6 @@
 <h3 align="center"> Hello Visitor!! 👋🏻</h3>
 
-<h3 align="center">Glad to see you here! :star_struck:</h3>
+<h3 align="center">Glad to see you here! :star_struck:</h3> 
 <h2>A Bit about me:</h2><br>
                 🔭 I'm a <strong>JavaScript || Core JAVA || Python || Web-Development </strong>enthusiast.<br>
                 ⚡ I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br>
