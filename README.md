@@ -1,4 +1,4 @@
-<h3 align="center"> Hello Visitor!! 👋🏻</h3>
+<h3 align="center"> Hello Visitor!!</h3>
 
 <h3 align="center">Glad to see you here! :star_struck:</h3> 
 <h2>A Bit about me:</h2><br>
