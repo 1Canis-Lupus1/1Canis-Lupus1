@@ -3,7 +3,7 @@
 <h3 align="center">Glad to see you here! :star_struck:</h3> 
 <h2>A Bit about me:</h2><br>
                 🔭 I'm a <strong>JavaScript || ReactJs || Web-Development </strong>enthusiast.<br>
-                ⚡ I am also well versed in <b>HTML</b>, <b>CSS</b> and its Frameworks(<b>Bootstrap, Material UI, Reactstrap, Ant Design)</b>
+                ⚡ I am also well versed in <b>HTML</b>, <b>CSS</b> and its Frameworks ( like <b>Bootstrap, Material UI, Reactstrap, Ant Design)</b>
                 ⚡ I am also Github's <strong><em>"Arctic Code Vault Contributor"</em></strong>.<br>
                 ⚛️ I’m currently onto learning <strong>"Full-Stack Web-Development"</strong> using the <strong>MERN</strong><em> stack(Mongodb, ExpressJs, ReactJs, NodeJs)</em>.<br>
                 😄 Apart from these, I am an aspiring <em>"Data-Structures and Algorithms"</em> learner.<br><br>
